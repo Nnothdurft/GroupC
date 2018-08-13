@@ -6,7 +6,7 @@ Project Title: Crime in St. Louis
 
 Description: Tracking crime trends based on different time frames
 
-Data: https://data.world/kylesykes/st-louis-city-crime-data/workspace/file?filename=stl-crime-data_2008-2015.tsv
+Data: http://www.slmpd.org/Crimereports.shtml
 
 Research Questions: What day of the week has the most crime occurrences?
 
